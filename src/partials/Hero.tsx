@@ -10,20 +10,14 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Hola Mundo, Soy <GradientText>Diaz Dev</GradientText> 👋
         </>
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
-          </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
-          </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          Me insteresa el desarrollo frontend, la tecnologia en general y el
+          desarrollo de aplicaciones. Hare algunas anotaciones por aqui.
+          Bienvenido!
         </>
       }
       avatar={
@@ -48,7 +42,7 @@ const Hero = () => (
               alt="Facebook icon"
             />
           </a>
-          <a href="/">
+          <a href="https://www.linkedin.com/in/diazignacio/">
             <HeroSocial
               src="/assets/images/linkedin-icon.png"
               alt="Linkedin icon"
